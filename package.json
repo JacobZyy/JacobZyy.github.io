@@ -1,0 +1,16 @@
+{
+  "name": "JacobZyy.github.io",
+  "version": "1.0.0",
+  "description": "jacobzha private blog",
+  "main": "index.js",
+  "repository": "https://github.com/JacobZyy/JacobZyy.github.io.git",
+  "author": "Jacobzha <jacobzha092078@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.64"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
